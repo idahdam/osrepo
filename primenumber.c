@@ -12,6 +12,10 @@ int main()
             {
                 c++;
             }
+            if (c > 2)
+            {
+                break;
+            }
         }
         if (c == 2)
         {
